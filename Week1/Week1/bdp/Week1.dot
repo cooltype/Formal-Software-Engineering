@@ -1,0 +1,4 @@
+digraph {
+lab1 [ label=" lab1 " shape= box ]
+
+}
